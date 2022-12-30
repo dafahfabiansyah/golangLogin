@@ -10,8 +10,8 @@ Dengan login session, Anda dapat membatasi hak akses pengunjung agar dapat menga
   
 * Untuk persiapan memulai juga harus memiliki aplikasi Xampp yang didalamnya sudah terinstall Apache dan Mysql untuk keperluan masuk kedalam Phpmyadmin untuk membuat database sql.
 * jika sudah bisa membuat database seperti dibawah ini :
-![phpmyadmin](https://user-images.githubusercontent.com/121594681/209970506-a6bb2d2e-22b4-410f-861a-bd23291923f9.PNG)
-  
+![phpmyadminNew](https://user-images.githubusercontent.com/121594681/210032349-3e39f909-e618-4ed8-a480-27872a6ac48d.PNG)
+ 
 * **File ini masih dalam pengembangan**
 * Sumber belajar :
 * [Link pembelajaran saya](https://www.youtube.com/@TentangKode)
