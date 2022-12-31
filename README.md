@@ -13,5 +13,4 @@ Dengan login session, Anda dapat membatasi hak akses pengunjung agar dapat menga
 ![phpmyadminNew](https://user-images.githubusercontent.com/121594681/210032349-3e39f909-e618-4ed8-a480-27872a6ac48d.PNG)
  
 * **File ini masih dalam pengembangan**
-* Sumber belajar :
 * [Link pembelajaran saya](https://www.youtube.com/@TentangKode)
